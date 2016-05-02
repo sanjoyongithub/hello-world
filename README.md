@@ -1,2 +1,2 @@
 # hello-world
-Hi, I am Sanjoy. The readme-edits brancg has been created by me. 
+Hi, I am Sanjoy. The readme-edits branch has been created by me. 
